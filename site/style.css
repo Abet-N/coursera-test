@@ -1,0 +1,47 @@
+* {
+	box-sizing: border-box;
+}
+
+.heiss {
+	color : #f2121a;
+	font-style: bold;
+	text-align: center;
+	font-size: 120%;
+}
+
+body {
+	background-color:lightblue;
+	position:relative;
+}
+
+.block {
+	width:50px;
+	height:50px;
+	background-color:#112233;
+	margin-right: 5px;
+	float:left;
+}
+
+#block1 {
+	background-color:#01dd1e;
+}
+
+#block2 {
+	background-color:#0310ef;
+}
+
+#block3 {
+	background-color:#fe4a4a;
+}
+
+#block4 {
+	background-color:#daea11;
+}
+
+#vier {
+	clear:right;
+}
+
+section {
+	background-color:#ededed;
+}
